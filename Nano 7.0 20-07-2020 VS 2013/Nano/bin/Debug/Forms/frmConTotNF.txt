@@ -1,0 +1,1 @@
+Codigo,False,-1,0,75|NumeroNF,True,1,0,64|CPF,False,-1,0,197|CodFor,True,3,0,75|Nome,True,4,0,253|Total,True,7,0,91|Data,True,0,0,80|Serie,False,-1,0,44|Tipo,False,-1,0,42|ValorFrete,False,-1,0,91|ValorSeguro,True,5,0,98|OutrasDespesas,True,6,0,120|CodConfig,True,9,0,65|EstoqueOK,True,8,0,77|CodPedido,True,2,0,75

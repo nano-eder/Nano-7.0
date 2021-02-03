@@ -1,0 +1,8 @@
+Tributacao:0|
+CST ICMS:0|
+Origem ICMS:0|
+Aliquota %:18,00|
+IPPT:1|
+Pesavel:1|
+Tipo:0|
+Cod. C. Fiscal:1|

@@ -1,0 +1,69 @@
+SET DATEFORMAT dmy SELECT Produto.Codigo, CodigoInterno, Nome, Fabricante, 
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =1) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =1) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 1) as QtdLoja1,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =1) as VendaLoja1,
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =2) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =2) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 2) as QtdLoja2,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =2) as VendaLoja2,
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =3) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =3) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 3) as QtdLoja3,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =3) as VendaLoja3,
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =4) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =4) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 4) as QtdLoja4,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =4) as VendaLoja4,
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =5) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =5) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 5) as QtdLoja5,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =5) as VendaLoja5,
+(SELECT case when sum(EntradaNf.QtdProd) is null then 0 else sum(EntradaNf.QtdProd) end 
+FROM EntradaNf left join TotalEntradaNf on EntradaNf.CodTotNf = TotalEntradaNf.Codigo 
+where EntradaNf.CodProd = Produto. Codigo and EstoqueOk = 'True'  and EntradaNF.CodConfig =6) - 
+(SELECT case when sum(Pedido.Qtd) is null then 0 else sum(Pedido.Qtd) end FROM Pedido 
+where Pedido.CodProd = Produto.Codigo and Pedido.Devolvido = 'False'  and Pedido.CodConfig =6) + 
+(SELECT case when sum(AjusteQtde.Qtd) is null then 0 else  sum(AjusteQtde.Qtd) end FROM AjusteQtde 
+where AjusteQtde.CodProd = Produto.Codigo  and AjusteQtde.CodConfig = 6) as QtdLoja6,
+(SELECT case when Sum(Qtd) is null then 0 else sum(Qtd) end FROM Pedido left join 
+Total on Pedido.CodOrdem = Total.CodOrdem and Pedido.CodConfig = Total.CodConfig 
+where Pedido.CodProd = Produto.Codigo and Total.Data >= 'DATAINICIALRELATORIO' AND
+ Total.Data <= 'DATAFINALRELATORIO' and Devolvido = 'false'  and Pedido.CodConfig =6) as VendaLoja6
+FROM Produto left join Qtde on Produto.Codigo = Qtde.CodProd group by Produto.Codigo, 
+CodigoInterno, Nome, Fabricante order by Produto.Codigo

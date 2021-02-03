@@ -1,0 +1,27 @@
+SET DATEFORMAT dmy (SELECT convert(integer,Recebimento.CodOrdem) as 'N. Venda', Pagamento, 
+Convert(Numeric(15,2),Recebimento.Valor) as 'Valor Vendido', Convert(Numeric(15,2),Recebimento.Valor) as 'Valor Liquido', 
+Recebimento.Data, Recebimento.CodConfig as 'Cod. Loja', convert(bit,'True') as Recebido, Recebimento.Data as 'Data Venda',
+Cliente.Nome as 'Cliente', Cliente.CPF as 'CPF/CNPJ', Cliente.Email 
+FROM ((Recebimento left join Pagamento on Recebimento.Pagamento = Pagamento.Descricao) left join Total on 
+Total.CodOrdem = recebimento.CodOrdem and Total.CodConfig = Recebimento.CodConfig) left join Cliente on Total.CodCli = Cliente.Codigo where 
+Recebimento.FormaPagamento = 'A VISTA' and Prazo = 'False' and Recebimento.Data >= 'DATAINICIALRELATORIO' AND 
+Recebimento.Data <= 'DATAFINALRELATORIO')
+UNION ALL (SELECT convert(integer,ContaReceber.CodOrdem) as 'N. Venda', Pagamento, 
+Convert(Numeric(15,2),ValorParcela) as 'Valor Vendido', Convert(Numeric(15,2),ValorParcela) as 'Valor Liquido',
+ Vencimento as Data, ContaReceber.CodConfig as 'Cod. Loja', Recebido, Total.Data as 'Data Venda',
+Cliente.Nome as 'Cliente', Cliente.CPF as 'CPF/CNPJ', Cliente.Email 
+FROM (ContaReceber left join Total on ContaReceber.CodOrdem = Total.CodOrdem and ContaReceber.CodConfig = Total.CodConfig) left join Cliente on ContaReceber.CodCli = Cliente.Codigo 
+where RecebidoOK = 'False' and Vencimento >= 'DATAINICIALRELATORIO' AND Vencimento <= 'DATAFINALRELATORIO')
+UNION ALL (SELECT convert(integer,ContaReceber.CodOrdem) as 'N. Venda', Pagamento, 
+Convert(Numeric(15,2),ValorParcela) as 'Valor Vendido', Convert(Numeric(15,2),ValorRecebido) as 'Valor Liquido', 
+Recebimento as Data, ContaReceber.CodConfig as 'Cod. Loja', Recebido, Total.Data as 'Data Venda',
+Cliente.Nome as 'Cliente', Cliente.CPF as 'CPF/CNPJ', Cliente.Email 
+FROM (ContaReceber left join Total on ContaReceber.CodOrdem = Total.CodOrdem and ContaReceber.CodConfig = Total.CodConfig)  left join Cliente on ContaReceber.CodCli = Cliente.Codigo 
+where RecebidoOK = 'True' and Recebimento >= 'DATAINICIALRELATORIO' AND Recebimento <= 'DATAFINALRELATORIO')
+UNION ALL (SELECT convert(integer,Futuro.CodOrdem) as 'N. Venda', Pagamento, 
+Convert(Numeric(15,2),Futuro.Total) as 'Valor Vendido', Convert(Numeric(15,2),Futuro.TotalDesconto) as 'Valor Liquido', 
+Futuro.Data, Futuro.CodConfig as 'Cod. Loja', Futuro.Recebido as Recebido, Total.Data as 'Data Venda',
+Cliente.Nome as 'Cliente', Cliente.CPF as 'CPF/CNPJ', Cliente.Email 
+FROM (Futuro left join Total on Futuro.CodOrdem = Total.CodOrdem and Futuro.CodConfig = Total.CodConfig) left join Cliente on Total.CodCli = Cliente.Codigo where 
+Futuro.Data >= 'DATAINICIALRELATORIO' AND Futuro.Data <= 'DATAFINALRELATORIO')
+

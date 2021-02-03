@@ -1,0 +1,1845 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TecladoNano
+</name>
+</assembly>
+<members>
+<member name="P:TecladoNano.Form1.CreateParams">
+	<summary>
+ La forma del conjunto de estilo:  WS_EX_NOACTIVATE ，Así que no va a ser el foco.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.WndProc(System.Windows.Forms.Message@)">
+	<summary>
+ Procesamiento de mensajes de ventana.
+ 
+ Cuando el cursor se encuentra en una zona de no-usuarios de la ventana,
+ el usuario presiona el botón izquierdo del ratón, y que evitará el mango actual ventana de primer plano y,
+ a continuación, activar usted mismo.
+ 
+ Cuando el cursor se encuentra en la zona de no-usuarios de la ventana se mueve,
+ por lo que significa en el botón izquierdo del ratón ha sido puesto en libertad,
+ esta ventana se activará la ventana en primer plano anterior.
+ </summary>
+	<param name="m"></param>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.btNumberAndLetterInit">
+	<summary>
+ Inicializa los botones del abecedario y nos numeros.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.bt_shiftRL">
+	<summary>
+ Inicializa los botones Shift L y R.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.bt_ctrlRL">
+	<summary>
+ Inicializa los botones Ctrl L y R.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.bt_altRL">
+	<summary>
+ Inicializa los botones Alt L y R.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.sendCommand(System.String)">
+	<summary>
+ Envia un commando con las opciones indicadas.
+ </summary>
+	<param name="command"></param>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.Timer1_Tick(System.Object,System.EventArgs)">
+	<summary>
+ Control Buttons Keys
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.IsKeyToggledCapsLock">
+	<summary>
+ Check Active CapsLock
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.updateButtons(System.Boolean,System.Boolean)">
+	<summary>
+ Update Buttons Letter.
+ </summary>
+	<param name="isCaps"></param>
+	<param name="isStop"></param>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.IsKeyDownShift">
+	<summary>
+ Check key down shift
+ </summary>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.Form1.updateButtonsSpecial(System.Boolean,System.Boolean)">
+	<summary>
+ Update Buttons Special.
+ </summary>
+	<param name="isPressed"></param>
+	<param name="isStop"></param>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.UnsafeNativeMethods.GetForegroundWindow">
+	<summary>
+ Obtener un identificador de la ventana en primer plano.
+ http://msdn.microsoft.com/en-us/library/ms633505(VS.85).aspx
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.UnsafeNativeMethods.SetForegroundWindow(System.IntPtr)">
+	<summary>
+ El subproceso que creó la ventana especificada al hilo primer plano, y la ventana activa.
+ http://msdn.microsoft.com/en-us/library/ms633539(VS.85).aspx
+ </summary>
+	<param name="hWnd"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:TecladoNano.UnsafeNativeMethods.IsWindow(System.IntPtr)">
+	<summary>
+ Determinar si el identificador de ventana especificado puede determinar una ventana existente.
+ http://msdn.microsoft.com/en-us/library/ms633528(VS.85).aspx
+ </summary>
+	<param name="hWnd"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:TecladoNano.dsNano.BancoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.BloqueiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CFOPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CidadeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComissaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ConfigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaPagarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaReceberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DuplicataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuncionarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuturoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ImpostoProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.LancamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.PagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.PedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.QtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RecebimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RepresentanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalEntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DevolucaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.EntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.LogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CaixaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.MovimentoBancarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DescarteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComandaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdensDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.BancoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.BloqueiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CFOPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CidadeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComissaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ConfigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaPagarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaReceberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DuplicataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuncionarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuturoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ImpostoProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.LancamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.PagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.PedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.QtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RecebimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RepresentanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalEntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DevolucaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.EntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.LogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.CaixaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.RegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.MovimentoBancarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.DescarteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComandaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdensRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNano.BancoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.BloqueiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.CFOPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.CidadeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComissaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ConfigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaPagarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ContaReceberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.DuplicataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuncionarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.FuturoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ImpostoProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.LancamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.PagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.PedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.QtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.RecebimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.RepresentanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalEntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.DevolucaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.EntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.LogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.CaixaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.RegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.TotalConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.MovimentoBancarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.DescarteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ItensReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.ComandaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano.OrdensRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNano">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.BancoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.BloqueiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.CFOPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.CidadeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ComissaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ConfigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ContaPagarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ContaReceberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.DuplicataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.FuncionarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.FuturoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ImpostoProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.LancamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.OrdemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.PagamentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.PedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.QtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.RecebimentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.RepresentanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.TotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.TotalEntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.DevolucaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.EntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.LogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.CaixaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.RegistroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ItensConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.TotalConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.MovimentoBancarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.DescarteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ItensReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.ComandaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoTableAdapters.OrdensTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AjusteQtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BancoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BloqueiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CaixaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CFOPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ChequeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CidadeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComandaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComissaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigECFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaPagarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaReceberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DescarteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DevolucaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DuplicataNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EmailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuncionarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuturoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ImpostoProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InutilizacaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InventarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.LogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.MovimentoBancarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NatOpeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OperadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdensDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PaisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdOpcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.QtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R6DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R7DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RecebimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RefNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RepresentanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TabelaIBPTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalEntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TransferenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TributosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.VolumeNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AjusteQtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BancoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BloqueiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CaixaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CFOPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ChequeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CidadeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComandaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComissaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigECFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaPagarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaReceberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DescarteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DevolucaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DuplicataNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EmailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuncionarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuturoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ImpostoProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InutilizacaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InventarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.LogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.MovimentoBancarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NatOpeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OperadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdensRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PaisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdOpcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.QtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R6Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R7Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RecebimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RefNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RepresentanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TabelaIBPTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalEntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TransferenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TributosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.VolumeNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AjusteQtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.AtivoConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BancoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.BloqueiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CaixaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CFOPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ChequeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.CidadeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComandaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ComissaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigECFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ConfigNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaPagarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ContaReceberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DescarteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DevolucaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.DuplicataNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EmailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuncionarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.FuturoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ImpostoProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InutilizacaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.InventarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ItensReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.LogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.MovimentoBancarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NatOpeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.NfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OperadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdemTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.OrdensRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PaisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.PedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdOpcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.QtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R6RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.R7RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RecebimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.ReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RefNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.RepresentanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TabelaIBPTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalEntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TotalNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TransferenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.TributosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce.VolumeNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerce">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.AjusteQtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.AtivoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.AtivoConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.BancoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.BloqueiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.CaixaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.CceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.CFOPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ChequeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.CidadeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ComandaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ComissaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ConfigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ConfigECFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ConfigNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ContaPagarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ContaReceberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.DescarteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.DevolucaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.DuplicataNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.EmailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.EntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.FuncionarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.FuturoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ImpostoProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.InutilizacaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.InventarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ItensConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ItensNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ItensReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.LogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.MovimentoBancarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.NatOpeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.NfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.OperadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.OrdemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.OrdemTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.OrdensTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.PagamentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.PaisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.PedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ProdOpcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.QtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.R2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.R3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.R4TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.R6TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.R7TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.RecebimentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.ReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.RefNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.RegistroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.RepresentanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TabelaIBPTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TotalConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TotalEntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TotalNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TransferenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.TributosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TecladoNano.dsNanoCommerceTableAdapters.VolumeNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:TecladoNano.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TecladoNano.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TecladoNano.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,1038 @@
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Nano.exe.config
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Interop.ADODB.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Interop.ADOX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Interop.CobreBemX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Interop.JRO.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.vbproj.ResolveComReference.cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.exe
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.xml
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.pdb
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.vbprojResolveAssemblyReference.cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBoletoCobreBem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConBol.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRemessa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmVencBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRemessas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConCNPJ.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTESTECPF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.Form1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAbrirComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaExcluir.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaMensagem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaPrincipal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaQtde.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaSelecionar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandaSetor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.MDIComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConCTPagarNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelLucro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelMediaVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelQuery.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComandas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConAtivos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConNfeItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConNfeTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConPed.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConProdFaltante.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConProdTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConTotNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGrafico.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGraficoPorProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGraficoSetores.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPmc1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPmc2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelCMV.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelComissaoTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelEstNegativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelFluxoCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelFormPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelFuturo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelGiroConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelInformativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelPedTot.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelProdTamanho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelRecebimentos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelRecFut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelTabelaPreco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelLog.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelVisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAbertura.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDadosMenuFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDav.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDetalharCupom.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMenuFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDav.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAlterarQtde.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAlterarValores.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAtivarProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBaixarAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadOpcoes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadRaca.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCheque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadComp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfig.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfRelRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCorrecaoReplicacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCotacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEmailAssinatura.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImgAPP.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImpProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMigracaoAutomotivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPainelPrecos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRecibo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelDRE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPagar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMigrarAutomotivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmProcesNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmVersoes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relConsultoria.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCotacao2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDRESomado.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLucros.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relZT230Dupla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relOrcamento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPimacoBijuterias3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCheckList.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.RelCheckListMaxx.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDRE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedImg.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relNormal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedImg2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPed2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relProcesso.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relTermo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmClienteTouch.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCodigoBarra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCompromisso.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCorrecaoEstoque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCrediario1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCrediario2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCrediario3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDesfaturar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDigitaCnpj.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEmail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEmailArquivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEnviarArq.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEspecie.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGastosFunc.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImpExcel.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImpProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmInativarProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMontaProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPedido1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPedidoAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRecebimento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRepresentacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmServidorSaida.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTesteQR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTransferencia.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmValorComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmWebCam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPedidoCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPmc3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelPedCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelTotCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTabelaPreco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelMovBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBaixarXML.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadNatOpe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConInut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDetCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDetProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmErro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImpVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMigracao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmImpTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMigracao2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmModEtiqueta.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMovBancario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPesquisaSql.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPlanoFundo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmReceita.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRecTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmSelecFunc.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmSenhaExcluir.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmSenhaReg.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEmissaoCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPesquisaImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relInut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCancelarNFe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConsultaChave2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMenuNFCe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmRelNFCe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmtesteHEx.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relAniversariantes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCaixaTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCheque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCMV.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relComissaoTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relConCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCred.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCupom.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDadosAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDadosCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDadosForDetal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDadosFornecedor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDadosProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDesempenho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDuplaMArgox.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relEstNegativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relEtiquetaCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relFluxoCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relFormPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relFuncionario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relGiro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relGiroConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relGrafico.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImp2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relIndice.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relIndiceInad.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relInformativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relInventarioProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLabel.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLB1000Dupla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLB1000Grande.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relMail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relMailErro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relNfeItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relNfetotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPed.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPedAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPedidoConsig.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPesquisaImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPimacoTripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPimacoBijuterias.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPimacoRoupas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relProdFalta.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relProdTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relProdTamanho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relReceita.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLog.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relMovBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relReciboPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRepresentacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRetrato.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relTotalEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBloqueio.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadFornecedor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmHelp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmPagamento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmReceber.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTamanhoProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relComissaoDetail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relContaPagar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relContaReceber.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relDuplicata.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relEnvelope.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relFuturo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLucro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRecebimento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relRecFut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmBackUP.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCadFuncionario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGrupo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmLogin.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmSenha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmUsuarios.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.Resources.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.MDI.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relVenda2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPromissoria.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relVisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relPimacoBijuterias2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLB1000Tripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relTriplaMArgox.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relElginL42Tripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relLB1000Pequena.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAtivacaoSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmAtualizarTabelas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmCancelarSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConsVendaSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmEditarCPF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmGerarArquivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmInstalarSat.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMenuSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmNumeroSessao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmConfigTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmMenuTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.frmTesteTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.TESTE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos2.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relOrcamento.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedImg.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.relImpPedImg2.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.MDI.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.vbproj.GenerateResource.Cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.exe.licenses
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Nano.exe
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Nano.pdb
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Nano.xml
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\pt-BR\Nano.resources.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Interop.ADODB.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Interop.ADOX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Interop.CobreBemX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\bin\Debug\Interop.JRO.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\pt-BR\Nano.resources.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.XtraForm1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.XtraUserControl1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2010\Nano\obj\Debug\Nano.RibbonForm1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.exe.config
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.ADODB.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.ADOX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.CobreBemX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.JRO.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbproj.ResolveComReference.cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.exe
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.xml
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.pdb
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.exe
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.pdb
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.xml
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\pt-BR\Nano.resources.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.ADODB.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.ADOX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.CobreBemX.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.JRO.dll
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbprojResolveAssemblyReference.cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBoletoCobreBem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConBol.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRemessa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVencBoleto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRemessas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCNPJ.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTESTECPF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.Form1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAbrirComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaExcluir.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaMensagem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaPrincipal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaQtde.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaSelecionar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaSetor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDIComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCTPagarNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelLucro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelMediaVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelQuery.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConAtivos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfeItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfeTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConPed.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProdFaltante.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProdTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConTotNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGrafico.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGraficoPorProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGraficoSetores.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelCMV.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComissaoTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelEstNegativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFluxoCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFormPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFuturo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelGiroConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelInformativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedTot.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelProdTamanho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRecebimentos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRecFut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTabelaPreco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelLog.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelVisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAbertura.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDadosMenuFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDav.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetalharCupom.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuFiscal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDav.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAlterarQtde.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAlterarValores.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtivarProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBaixarAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadOpcoes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadRaca.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCheque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadComp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfig.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfRelRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCorrecaoReplicacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCotacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmailAssinatura.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImgAPP.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracaoAutomotivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPainelPrecos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecibo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDRE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPagar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.XtraForm1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.XtraUserControl1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigrarAutomotivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmProcesNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVersoes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConsultoria.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCotacao2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDRESomado.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLucros.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relZT230Dupla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relOrcamento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRevisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCheckList.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.RelCheckListMaxx.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDRE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNormal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPed2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProcesso.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTermo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.RibbonForm1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmClienteTouch.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCodigoBarra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCompromisso.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCorrecaoEstoque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDesfaturar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDigitaCnpj.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmailArquivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEnviarArq.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEspecie.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGastosFunc.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpExcel.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInativarProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMontaProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedido1.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedidoAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecebimento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRepresentacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmServidorSaida.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTesteQR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTransferencia.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmValorComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmWebCam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedidoCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc3.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTotCompra.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTabelaPreco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelMovBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBaixarXML.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadNatOpe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConInut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmErro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracao2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmModEtiqueta.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMovBancario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPesquisaSql.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPlanoFundo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmReceita.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSelecFunc.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenhaExcluir.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenhaReg.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmissaoCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPesquisaImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCancelarNFe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigNfe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConsultaChave2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuNFCe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelNFCe.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmtesteHEx.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAniversariantes.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAtivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCaixaTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCce.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCheque.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCMV.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComanda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissaoTotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConCampanha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCred.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCupom.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosCliente.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosForDetal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosFornecedor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDescarte.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDesempenho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDuplaMArgox.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEstNegativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEtiquetaCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFluxoCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFormPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFuncionario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGiro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGiroConsumo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGrafico.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImp2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relIndice.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relIndiceInad.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInformativo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInventario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInventarioProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLabel.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Dupla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Grande.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMailErro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNfeItens.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNfetotal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPed.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedAnimal.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedidoConsig.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPesquisaImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoTripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoRoupas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdFalta.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdTam.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdTamanho.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProduto.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relReceita.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLog.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMovBanco.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relReciboPag.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRepresentacao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRetorno.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRetrato.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTotalEntradaNF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBloqueio.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadFornecedor.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmHelp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPagamento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmReceber.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTamanhoProd.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissaoDetail.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relContaPagar.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relContaReceber.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDevolucao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDuplicata.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEnvelope.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFuturo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImp.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLucro.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedido.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRecebimento.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRecFut.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBackUP.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadFuncionario.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCaixa.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGrupo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmLogin.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenha.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmUsuarios.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.Resources.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDI.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTrans.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVenda.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVenda2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPromissoria.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVisao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias2.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Tripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTriplaMArgox.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relElginL42Tripla.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Pequena.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtivacaoSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtualizarTabelas.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCancelarSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConsVendaSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEditarCPF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGerarArquivo.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInstalarSat.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuSAT.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmNumeroSessao.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTesteTEF.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.TESTE.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relOrcamento.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg2.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDI.pt-BR.resources
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbproj.GenerateResource.Cache
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.exe.licenses
+C:\Users\Eder\Desktop\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\pt-BR\Nano.resources.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.exe.config
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.ADODB.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.ADOX.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.CobreBemX.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Interop.JRO.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbproj.ResolveComReference.cache
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.exe
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.xml
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.pdb
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.exe
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.pdb
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Nano.xml
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\pt-BR\Nano.resources.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.ADODB.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.ADOX.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.CobreBemX.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\bin\Debug\Interop.JRO.dll
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbprojResolveAssemblyReference.cache
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBoleto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBoletoCobreBem.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConBol.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigBoleto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRemessa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRetorno.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVencBoleto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRemessas.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCNPJ.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTESTECPF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.Form1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAbrirComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaExcluir.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaItens.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaMensagem.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaPrincipal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaQtde.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaSelecionar.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandaSetor.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDIComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCampanha.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCTPagarNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelLucro.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelMediaVenda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelQuery.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRevisao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComandas.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConAtivos.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConCce.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConComissao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConInventario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfeItens.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConNfeTotal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConPed.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConPedido.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProdFaltante.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConProdTam.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConRetorno.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConTotNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConVenda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGrafico.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGraficoPorProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGraficoSetores.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelCMV.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComissao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelComissaoTotal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelConsumo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDescarte.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDevolucao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelEstNegativo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFluxoCaixa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFormPag.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelFuturo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelGiroConsumo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelInformativo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedido.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedTot.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelProdTamanho.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRecebimentos.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelRecFut.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTabelaPreco.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTrans.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelLog.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelVisao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAbertura.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigFiscal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDadosMenuFiscal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDav.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetalharCupom.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuFiscal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDav.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAlterarQtde.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAlterarValores.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtivarProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBaixarAtivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadAnimal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadAtivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadBanco.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadOpcoes.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadRaca.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCheque.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadComp.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfig.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfRelRevisao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCorrecaoReplicacao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCotacao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmailAssinatura.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImgAPP.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracaoAutomotivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPainelPrecos.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecibo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVenda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelDRE.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPagar.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadCliente.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.XtraForm1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.XtraUserControl1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigrarAutomotivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedido.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmProcesNfe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmVersoes.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConsultoria.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCotacao2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDRESomado.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLucros.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relZT230Dupla.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relOrcamento.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias3.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRevisao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCheckList.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.RelCheckListMaxx.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDRE.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNormal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPed2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProcesso.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTermo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.RibbonForm1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmClienteTouch.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCodigoBarra.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCompromisso.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCorrecaoEstoque.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCrediario3.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDesfaturar.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDigitaCnpj.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmail.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmailArquivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEntradaNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEnviarArq.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEspecie.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGastosFunc.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpExcel.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpProd.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInativarProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInventario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMontaProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedido1.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedidoAnimal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecebimento.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRepresentacao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmServidorSaida.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTesteQR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTransferencia.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmValorComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmWebCam.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPedidoCompra.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPmc3.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelPedCompra.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelTotCompra.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTabelaPreco.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelMovBanco.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBaixarXML.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCampanha.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadNatOpe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDescarte.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConInut.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetCce.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDetProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmErro.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpVenda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmImpTam.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMigracao2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmModEtiqueta.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMovBancario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPesquisaSql.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPlanoFundo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmReceita.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRecTrans.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSelecFunc.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenhaExcluir.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenhaReg.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEmissaoCce.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPesquisaImp.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInut.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCancelarNFe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigNfe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConsultaChave2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuNFCe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmRelNFCe.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmtesteHEx.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAnimal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAniversariantes.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relAtivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCaixaTotal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCampanha.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCce.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCheque.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCliente.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCMV.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComanda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissaoTotal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConCampanha.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relConsumo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCred.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCupom.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosAnimal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosCliente.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosForDetal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosFornecedor.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDadosProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDescarte.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDesempenho.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDuplaMArgox.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEstNegativo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEtiquetaCaixa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFluxoCaixa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFormPag.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFuncionario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGiro.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGiroConsumo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relGrafico.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImp2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relIndice.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relIndiceInad.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInformativo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInventario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relInventarioProd.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLabel.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Dupla.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Grande.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMail.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMailErro.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNfeItens.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relNfetotal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPed.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedAnimal.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedidoConsig.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPesquisaImp.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoTripla.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoRoupas.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdFalta.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdTam.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProdTamanho.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relProduto.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relReceita.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLog.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEntradaNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relMovBanco.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relReciboPag.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRepresentacao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRetorno.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRetrato.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTotalEntradaNF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBloqueio.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmDevolucao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadFornecedor.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmHelp.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmPagamento.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmReceber.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTamanhoProd.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relCaixa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relComissaoDetail.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relContaPagar.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relContaReceber.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDevolucao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relDuplicata.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relEnvelope.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relFuturo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImp.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLucro.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPedido.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRecebimento.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relRecFut.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmBackUP.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCadFuncionario.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCaixa.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGrupo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmLogin.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmSenha.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmUsuarios.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.Resources.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDI.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTrans.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVenda.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVenda2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPromissoria.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relVisao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relPimacoBijuterias2.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Tripla.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relTriplaMArgox.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relElginL42Tripla.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relLB1000Pequena.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtivacaoSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmAtualizarTabelas.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmCancelarSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConsVendaSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmEditarCPF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmGerarArquivo.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmInstalarSat.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuSAT.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmNumeroSessao.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmConfigTEF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmMenuTEF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTEF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.frmTesteTEF.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.TESTE.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedidos2Paisagem.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relOrcamento.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.relImpPedImg2.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.MDI.pt-BR.resources
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.vbproj.GenerateResource.Cache
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\Nano.exe.licenses
+D:\Projetos VS\Nano 7.0 20-07-2020 VS 2013\Nano\obj\Debug\pt-BR\Nano.resources.dll

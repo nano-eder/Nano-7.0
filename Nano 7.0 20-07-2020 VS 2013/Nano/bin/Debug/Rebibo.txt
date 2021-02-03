@@ -1,0 +1,29 @@
+******************************************
+                TAUA MODAS
+     Rua 15 de Novembro, 949 - Centro
+     Tel: (19) 3318-3952 / 99337-0228
+******************************************
+ 
+           RECIBO DE PAGAMENTO
+           PARCELA DE CREDIARIO
+ 
+------------------------------------------
+Cliente: NATALIA FRANSIOZI
+CPF/CNPJ: 437.382.008-27
+Data Pagamento: 15/11/2014
+
+Venda N°: 9911
+Parcela: 1/1
+Valor Parcela: R$ 50,00
+
+Venda N°: 9911
+Parcela: 1/2
+Valor Parcela: R$ 25,00
+
+Venda N°: 9911
+Parcela: 2/2
+Valor Parcela: R$ 25,00
+
+TOTAL PAGO: R$ 100,00
+------------------------------------------
+           DOCUMENTO NAO FISCAL

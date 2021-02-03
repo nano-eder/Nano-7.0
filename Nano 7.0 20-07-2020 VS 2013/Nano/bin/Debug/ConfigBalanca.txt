@@ -1,0 +1,10 @@
+Porta|BaudRate|Data Bits|Paridade 
+2|2|1|0
+
+
+Legenda:
+
+Porta COM (1=COM 1, 2=COM 2, 3=COM 3, 4=COM 4)
+BaudRate (0=2400, 1=4800, 2=9600, 3=1200)
+Data Bits (0=7 bits, 1=8 bits)
+Paridade (0=Nenhum, 1=Ímpar, 2=Par, 3=Espaço)

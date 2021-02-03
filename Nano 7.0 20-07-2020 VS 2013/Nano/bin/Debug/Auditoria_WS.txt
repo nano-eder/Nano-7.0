@@ -1,0 +1,75 @@
+20/06/2017-15:53:34:421:	=====================================
+20/06/2017-15:53:34:421:	VERSAO WS	01.07.00
+20/06/2017-15:53:34:421:	=====================================
+
+20/06/2017-15:53:34:421:	>> EnviarNF_WS('https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', '', '001', '', '11.08.06', '', '', '1', '3', '', '3', '0', '10', '')
+20/06/2017-15:53:34:422:		>> fnWebService_WS_NFCe('3', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', 'InfoCabecalho['', '001', '', '11.08.06', '', '']', 'ReplicaArquivo['3', '0', 'false', '']', '1', '10', '')
+20/06/2017-15:53:35:519:			 # Proxy esta VAZIO... 
+20/06/2017-15:53:35:520:			 # >>> Entrando na função de calculo de MD5
+20/06/2017-15:53:35:520:			 # Dado = [<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>]
+20/06/2017-15:53:35:520:			 # MD5  = [9d1ccd6fda669ca30018331e52941613]
+20/06/2017-15:53:35:520:			 # <<< Saindo da função de calculo de MD5
+20/06/2017-15:53:35:540:			>> IServicoMigrate::CreateWebService('3', 'false')
+20/06/2017-15:53:35:540:				 # Novo Servico de - WSRecepcaoNFCe (DESENVOLVIMENTO) - CRIADO!
+20/06/2017-15:53:35:540:			<< IServicoMigrate::CreateWebService - RETORNO NUMERO: 1
+20/06/2017-15:53:35:540:			>> ServicoWSRecepcaoNFCe::serviceExecute('soap', 'invoicy', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-15:53:35:540:				 # Executando chamada ao WS ...
+20/06/2017-15:53:35:925:				 # Gravando o retorno ...
+20/06/2017-15:53:35:925:				>> fnGravarRetorno_WS('0', 'retornoWS', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-15:53:35:926:					 # Retorno WebService: '<DocModelo>0</DocModelo><DocNumero>0</DocNumero><DocSerie /><DocChaAcesso /><DocProtocolo /><DocEvenSeq>0</DocEvenSeq><DocEveTp>0</DocEveTp><DocEveId /><Situacao><SitCodigo>243</SitCodigo><SitDescricao>Rejeição: XML de envio fora do padrão</SitDescricao></Situacao>'
+20/06/2017-15:53:35:926:				<< fnGravarRetorno_WS - RETORNO NUMERO: 243
+20/06/2017-15:53:35:926:			<< ServicoWSRecepcaoNFCe::serviceExecute - RETORNO NUMERO: 243
+20/06/2017-15:53:35:926:		<< fnWebService_WS_NFCe - RETORNO NUMERO: 243
+20/06/2017-15:53:35:926:	<< EnviarNF_WS - RETORNO NUMERO: -4
+20/06/2017-15:53:35:926:	-----------------------------------------------------------------
+
+20/06/2017-16:03:51:162:	=====================================
+20/06/2017-16:03:51:162:	VERSAO WS	01.07.00
+20/06/2017-16:03:51:162:	=====================================
+
+20/06/2017-16:03:51:162:	>> EnviarNF_WS('https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', '', '001', '', '11.08.06', '', '', '1', '3', '', '3', '0', '10', '')
+20/06/2017-16:03:51:162:		>> fnWebService_WS_NFCe('3', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', 'InfoCabecalho['', '001', '', '11.08.06', '', '']', 'ReplicaArquivo['3', '0', 'false', '']', '1', '10', '')
+20/06/2017-16:03:52:224:			 # Proxy esta VAZIO... 
+20/06/2017-16:03:52:225:			 # >>> Entrando na função de calculo de MD5
+20/06/2017-16:03:52:225:			 # Dado = [<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>]
+20/06/2017-16:03:52:225:			 # MD5  = [9d1ccd6fda669ca30018331e52941613]
+20/06/2017-16:03:52:225:			 # <<< Saindo da função de calculo de MD5
+20/06/2017-16:03:52:227:			>> IServicoMigrate::CreateWebService('3', 'false')
+20/06/2017-16:03:52:227:				 # Novo Servico de - WSRecepcaoNFCe (DESENVOLVIMENTO) - CRIADO!
+20/06/2017-16:03:52:227:			<< IServicoMigrate::CreateWebService - RETORNO NUMERO: 1
+20/06/2017-16:03:52:227:			>> ServicoWSRecepcaoNFCe::serviceExecute('soap', 'invoicy', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-16:03:52:227:				 # Executando chamada ao WS ...
+20/06/2017-16:03:52:594:				 # Gravando o retorno ...
+20/06/2017-16:03:52:594:				>> fnGravarRetorno_WS('0', 'retornoWS', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-16:03:52:595:					 # Retorno WebService: '<DocModelo>0</DocModelo><DocNumero>0</DocNumero><DocSerie /><DocChaAcesso /><DocProtocolo /><DocEvenSeq>0</DocEvenSeq><DocEveTp>0</DocEveTp><DocEveId /><Situacao><SitCodigo>243</SitCodigo><SitDescricao>Rejeição: XML de envio fora do padrão</SitDescricao></Situacao>'
+20/06/2017-16:03:52:595:				<< fnGravarRetorno_WS - RETORNO NUMERO: 243
+20/06/2017-16:03:52:595:			<< ServicoWSRecepcaoNFCe::serviceExecute - RETORNO NUMERO: 243
+20/06/2017-16:03:52:596:		<< fnWebService_WS_NFCe - RETORNO NUMERO: 243
+20/06/2017-16:03:52:596:	<< EnviarNF_WS - RETORNO NUMERO: -4
+20/06/2017-16:03:52:596:	-----------------------------------------------------------------
+
+20/06/2017-16:08:25:078:	=====================================
+20/06/2017-16:08:25:078:	VERSAO WS	01.07.00
+20/06/2017-16:08:25:078:	=====================================
+
+20/06/2017-16:08:25:078:	>> EnviarNF_WS('https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', '', '001', '', '11.08.06', '', '', '1', '3', '', '3', '0', '10', '')
+20/06/2017-16:08:25:079:		>> fnWebService_WS_NFCe('3', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', '<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>', '', 'InfoCabecalho['', '001', '', '11.08.06', '', '']', 'ReplicaArquivo['3', '0', 'false', '']', '1', '10', '')
+20/06/2017-16:08:26:123:			 # Proxy esta VAZIO... 
+20/06/2017-16:08:26:123:			 # >>> Entrando na função de calculo de MD5
+20/06/2017-16:08:26:124:			 # Dado = [<Consulta><ModeloDocumento>NFCe</ModeloDocumento><Versao>3.10</Versao><tpAmb>3</tpAmb><CnpjEmissor>11111111111111</CnpjEmissor><NumeroInicial>0</NumeroInicial><NumeroFinal>0</NumeroFinal><Serie></Serie><ChaveAcesso></ChaveAcesso><DataEmissaoInicial>0000-00-00T00:00:00</DataEmissaoInicial><DataEmissaoFinal>0000-00-00T00:00:00</DataEmissaoFinal><dhUF>43</dhUF></Consulta>]
+20/06/2017-16:08:26:124:			 # MD5  = [9d1ccd6fda669ca30018331e52941613]
+20/06/2017-16:08:26:124:			 # <<< Saindo da função de calculo de MD5
+20/06/2017-16:08:26:126:			>> IServicoMigrate::CreateWebService('3', 'false')
+20/06/2017-16:08:26:126:				 # Novo Servico de - WSRecepcaoNFCe (DESENVOLVIMENTO) - CRIADO!
+20/06/2017-16:08:26:126:			<< IServicoMigrate::CreateWebService - RETORNO NUMERO: 1
+20/06/2017-16:08:26:126:			>> ServicoWSRecepcaoNFCe::serviceExecute('soap', 'invoicy', 'https://simula.invoicy.com.br/awsrecepcaonfce.aspx', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-16:08:26:126:				 # Executando chamada ao WS ...
+20/06/2017-16:08:26:596:				 # Gravando o retorno ...
+20/06/2017-16:08:26:596:				>> fnGravarRetorno_WS('0', 'retornoWS', 'ReplicaArquivo['3', '0', 'false', '']')
+20/06/2017-16:08:26:598:					 # Retorno WebService: '<DocModelo>0</DocModelo><DocNumero>0</DocNumero><DocSerie /><DocChaAcesso /><DocProtocolo /><DocEvenSeq>0</DocEvenSeq><DocEveTp>0</DocEveTp><DocEveId /><Situacao><SitCodigo>243</SitCodigo><SitDescricao>Rejeição: XML de envio fora do padrão</SitDescricao></Situacao>'
+20/06/2017-16:08:26:598:				<< fnGravarRetorno_WS - RETORNO NUMERO: 243
+20/06/2017-16:08:26:598:			<< ServicoWSRecepcaoNFCe::serviceExecute - RETORNO NUMERO: 243
+20/06/2017-16:08:26:598:		<< fnWebService_WS_NFCe - RETORNO NUMERO: 243
+20/06/2017-16:08:26:598:	<< EnviarNF_WS - RETORNO NUMERO: -4
+20/06/2017-16:08:26:598:	-----------------------------------------------------------------
+

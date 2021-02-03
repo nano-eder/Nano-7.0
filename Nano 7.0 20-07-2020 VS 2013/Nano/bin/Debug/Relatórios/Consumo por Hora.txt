@@ -1,0 +1,1 @@
+select count(CodOrdem) as 'Qtde Venda', substring(hora,1,2) + ':00'  as Horario from total where Total.Data >= 'DATAINICIALRELATORIO' AND Total.Data <= 'DATAFINALRELATORIO' group by substring(hora,1,2)  order by count(CodOrdem) Desc

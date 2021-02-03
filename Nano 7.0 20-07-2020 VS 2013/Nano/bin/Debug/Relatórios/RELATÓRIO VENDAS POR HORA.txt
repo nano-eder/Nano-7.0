@@ -1,0 +1,1 @@
+select  'De ' + substring(hora,1,2) + ':00 a ' + substring(hora,1,2) + ':59' as Intervalo, count(CodOrdem) as 'N. Clientes', sum(Total) as 'Valor R$' from total where  Total.Data >= 'DATAINICIALRELATORIO' AND Total.Data <= 'DATAFINALRELATORIO' group by substring(hora,1,2) order by substring(hora,1,2) 

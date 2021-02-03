@@ -1,0 +1,2606 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Nano
+</name>
+</assembly>
+<members>
+<member name="E:Nano.wsNFeInutilizacao4.NFeInutilizacao4.nfeInutilizacaoNFCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeInutilizacao4.NFeInutilizacao4.nfeInutilizacaoNF(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeInutilizacao4.NFeInutilizacao4.nfeInutilizacaoNFAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeInutilizacao4.NFeInutilizacao4.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeInutilizacao4.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeInutilizacao4.nfeInutilizacaoNFCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeInutilizacao4.nfeInutilizacaoNFCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeInutilizacao4.nfeInutilizacaoNFCompletedEventArgs">
+	<remarks/>
+</member><member name="E:Nano.wsNFeConsulta4.NfeConsulta4.nfeConsultaNFCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeConsulta4.NfeConsulta4.nfeConsultaNF(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeConsulta4.NfeConsulta4.nfeConsultaNFAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeConsulta4.NfeConsulta4.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeConsulta4.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeConsulta4.nfeConsultaNFCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeConsulta4.nfeConsultaNFCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeConsulta4.nfeConsultaNFCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.ConsultaBA.NfeConsulta.#ctor">
+	<remarks/>
+</member><member name="E:Nano.ConsultaBA.NfeConsulta.nfeConsultaNFCompleted">
+	<remarks/>
+</member><member name="M:Nano.ConsultaBA.NfeConsulta.nfeConsultaNF(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaBA.NfeConsulta.nfeConsultaNFAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaBA.NfeConsulta.nfeConsultaNFAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaBA.NfeConsulta.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.ConsultaBA.NfeConsulta">
+	<remarks/>
+</member><member name="P:Nano.ConsultaBA.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.ConsultaBA.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.ConsultaBA.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.ConsultaBA.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.ConsultaBA.nfeConsultaNFCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.ConsultaBA.nfeConsultaNFCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.ConsultaBA.nfeConsultaNFCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.retRecepcao.NfeRetRecepcao2.#ctor">
+	<remarks/>
+</member><member name="E:Nano.retRecepcao.NfeRetRecepcao2.nfeRetRecepcao2Completed">
+	<remarks/>
+</member><member name="M:Nano.retRecepcao.NfeRetRecepcao2.nfeRetRecepcao2(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.retRecepcao.NfeRetRecepcao2.nfeRetRecepcao2Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.retRecepcao.NfeRetRecepcao2.nfeRetRecepcao2Async(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.retRecepcao.NfeRetRecepcao2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.retRecepcao.NfeRetRecepcao2">
+	<remarks/>
+</member><member name="P:Nano.retRecepcao.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.retRecepcao.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.retRecepcao.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.retRecepcao.nfeRetRecepcao2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.retRecepcao.nfeRetRecepcao2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.retRecepcao.nfeRetRecepcao2CompletedEventArgs">
+	<remarks/>
+</member><member name="T:Nano.dsNanoCommerce.AgendaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AgendaTelefoneDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AjusteQtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AnimalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BancoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BloqueiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BoletoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CaixaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CampanhaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CarroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CFOPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ChequeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CidadeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CodigoBarraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComandaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComissaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigECFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigTEFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CONTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaPagarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaReceberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CotacaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DescarteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DevolucaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DuplicataNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EmailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuncionarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuturoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GastosFuncDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ImpostoProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InutilizacaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InventarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LocacaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.MovimentoBancarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NatOpeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NFCeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OperadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdensDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PaisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdOpcDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce._PRODUTO_DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.QtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R6DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R7DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RecebimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RefNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentacaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RevisaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.SATFiscalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaIBPTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaPrecoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalEntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalPedCompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TransferenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TributosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.VolumeNfeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AgendaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AgendaTelefoneRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AjusteQtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AnimalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BancoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BloqueiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BoletoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CaixaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CampanhaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CarroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CFOPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ChequeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CidadeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CodigoBarraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComandaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComissaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigECFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigTEFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CONTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaPagarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaReceberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CotacaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DescarteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DevolucaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DuplicataNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EmailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuncionarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuturoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GastosFuncRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ImpostoProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InutilizacaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InventarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LocacaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.MovimentoBancarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NatOpeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NFCeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OperadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdensRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PaisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdOpcRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce._PRODUTO_Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.QtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R6Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R7Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RecebimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RefNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentacaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RevisaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.SATFiscalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaIBPTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaPrecoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalEntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalPedCompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TransferenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TributosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.VolumeNfeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AgendaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AgendaTelefoneRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AjusteQtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AnimalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.AtivoConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BancoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BloqueiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.BoletoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CaixaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CampanhaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CarroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CFOPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ChequeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CidadeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CodigoBarraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComandaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ComissaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigECFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ConfigTEFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CONTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaPagarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ContaReceberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.CotacaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DescarteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DevolucaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.DuplicataNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EmailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuncionarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.FuturoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GastosFuncRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ImpostoProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InutilizacaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.InventarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ItensReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LocacaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.LogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.MovimentoBancarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NatOpeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NFCeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.NfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OperadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdemTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.OrdensRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PagNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PaisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.PedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdOpcRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce._PRODUTO_RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.QtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R6RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.R7RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RecebimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.ReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RefNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentacaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RepresentanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.RevisaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.SATFiscalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaIBPTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TabelaPrecoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalEntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TotalPedCompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TransferenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.TributosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce.VolumeNfeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNanoCommerce">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AgendaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AgendaTelefoneTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AjusteQtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AnimalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AtivoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.AtivoConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.BancoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.BloqueiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.BoletoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CaixaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CampanhaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CarroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CFOPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ChequeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CidadeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CodigoBarraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ComandaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ComissaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ConfigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ConfigECFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ConfigNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ConfigTEFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CONTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ContaPagarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ContaReceberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.CotacaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.DescarteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.DevolucaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.DuplicataNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.EmailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.EntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.FuncionarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.FuturoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.GastosFuncTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ImpostoProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.InutilizacaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.InventarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ItensConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ItensNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ItensReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.LocacaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.LogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.MovimentoBancarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.NatOpeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.NFCeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.NfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.OperadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.OrdemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.OrdemTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.OrdensTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PagamentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PagNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PaisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PedCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ProdOpcTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.PRODUTO_TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.QtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.R2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.R3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.R4TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.R6TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.R7TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RecebimentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.ReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RefNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RegistroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RepresentacaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RepresentanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.RevisaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.SATFiscalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TabelaIBPTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TabelaPrecoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TotalConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TotalEntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TotalNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TotalPedCompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TransferenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.TributosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoCommerceTableAdapters.VolumeNfeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="E:Nano.wsNFeAutorizacao4.NFeAutorizacao4.nfeAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao4.NFeAutorizacao4.nfeAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao4.NFeAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao4.NFeAutorizacao4.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao4.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao4.nfeAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao4.nfeAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao4.nfeAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.Consulta2.NfeConsulta2.#ctor">
+	<remarks/>
+</member><member name="E:Nano.Consulta2.NfeConsulta2.nfeConsultaNF2Completed">
+	<remarks/>
+</member><member name="M:Nano.Consulta2.NfeConsulta2.nfeConsultaNF2(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.Consulta2.NfeConsulta2.nfeConsultaNF2Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.Consulta2.NfeConsulta2.nfeConsultaNF2Async(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.Consulta2.NfeConsulta2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.Consulta2.NfeConsulta2">
+	<remarks/>
+</member><member name="P:Nano.Consulta2.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.Consulta2.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.Consulta2.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.Consulta2.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.Consulta2.nfeConsultaNF2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.Consulta2.nfeConsultaNF2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.Consulta2.nfeConsultaNF2CompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.NfeInutilizacao2.NfeInutilizacao2.#ctor">
+	<remarks/>
+</member><member name="E:Nano.NfeInutilizacao2.NfeInutilizacao2.nfeInutilizacao2Completed">
+	<remarks/>
+</member><member name="M:Nano.NfeInutilizacao2.NfeInutilizacao2.nfeInutilizacaoNF2(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.NfeInutilizacao2.NfeInutilizacao2.nfeInutilizacao2Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.NfeInutilizacao2.NfeInutilizacao2.nfeInutilizacao2Async(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.NfeInutilizacao2.NfeInutilizacao2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.NfeInutilizacao2.NfeInutilizacao2">
+	<remarks/>
+</member><member name="P:Nano.NfeInutilizacao2.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.NfeInutilizacao2.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.NfeInutilizacao2.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.NfeInutilizacao2.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.NfeInutilizacao2.nfeInutilizacao2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.NfeInutilizacao2.nfeInutilizacao2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.NfeInutilizacao2.nfeInutilizacao2CompletedEventArgs">
+	<remarks/>
+</member><member name="E:Nano.wsNFeRecepcaoEvento4.NFeRecepcaoEvento4.nfeRecepcaoEvento4Completed">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRecepcaoEvento4.NFeRecepcaoEvento4.nfeRecepcaoEvento4(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRecepcaoEvento4.NFeRecepcaoEvento4.nfeRecepcaoEvento4Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRecepcaoEvento4.NFeRecepcaoEvento4.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRecepcaoEvento4.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRecepcaoEvento4.nfeRecepcaoEvento4CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRecepcaoEvento4.nfeRecepcaoEvento4CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRecepcaoEvento4.nfeRecepcaoEvento4CompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.#ctor(System.String)">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteZipCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.BeginnfeAutorizacaoLote(System.Xml.XmlNode,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.EndnfeAutorizacaoLote(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteZip(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.BeginnfeAutorizacaoLoteZip(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.EndnfeAutorizacaoLoteZip(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteZipAsync(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.nfeAutorizacaoLoteZipAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.NfeAutorizacao3">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoPR.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoPR.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoPR.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteZipCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteZipCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoPR.nfeAutorizacaoLoteZipCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.Recepcao.NfeRecepcao2.#ctor">
+	<remarks/>
+</member><member name="E:Nano.Recepcao.NfeRecepcao2.nfeRecepcaoLote2Completed">
+	<remarks/>
+</member><member name="M:Nano.Recepcao.NfeRecepcao2.nfeRecepcaoLote2(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.Recepcao.NfeRecepcao2.nfeRecepcaoLote2Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.Recepcao.NfeRecepcao2.nfeRecepcaoLote2Async(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.Recepcao.NfeRecepcao2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.Recepcao.NfeRecepcao2">
+	<remarks/>
+</member><member name="P:Nano.Recepcao.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.Recepcao.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.Recepcao.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.Recepcao.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.Recepcao.nfeRecepcaoLote2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.Recepcao.nfeRecepcaoLote2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.Recepcao.nfeRecepcaoLote2CompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.#ctor(System.String)">
+	<remarks/>
+</member><member name="E:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.nfeRetAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.nfeRetAutorizacao(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.BeginnfeRetAutorizacaoLote(System.Xml.XmlNode,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.EndnfeRetAutorizacaoLote(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacaoPR.NfeRetAutorizacao3">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacaoPR.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacaoPR.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacaoPR.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacaoPR.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacaoPR.nfeRetAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacaoPR.nfeRetAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacaoPR.nfeRetAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.clsFuncoes.getDecimal(System.Byte)">
+	<summary>
+ Função auxiliar - Parte decimal a converter
+ </summary>
+	<param name="number">Parte decimal a converter</param>
+</member><member name="M:Nano.clsFuncoes.getInteger(System.Decimal)">
+	<summary>
+ Função auxiliar - Parte inteira a converter
+ </summary>
+	<param name="number">Parte inteira a converter</param>
+</member><member name="E:Nano.wsNFeRetAutorizacao4.NfeRetAutorizacao4.nfeAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao4.NfeRetAutorizacao4.nfeRetAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao4.NfeRetAutorizacao4.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao4.NfeRetAutorizacao4.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao4.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao4.nfeAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacao4.nfeAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao4.nfeAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.ConsultaPR.NfeConsulta3.#ctor">
+	<remarks/>
+</member><member name="E:Nano.ConsultaPR.NfeConsulta3.nfeConsultaNFCompleted">
+	<remarks/>
+</member><member name="M:Nano.ConsultaPR.NfeConsulta3.nfeConsultaNF(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaPR.NfeConsulta3.nfeConsultaNFAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaPR.NfeConsulta3.nfeConsultaNFAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.ConsultaPR.NfeConsulta3.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.ConsultaPR.NfeConsulta3">
+	<remarks/>
+</member><member name="P:Nano.ConsultaPR.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.ConsultaPR.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.ConsultaPR.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.ConsultaPR.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.ConsultaPR.nfeConsultaNFCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.ConsultaPR.nfeConsultaNFCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.ConsultaPR.nfeConsultaNFCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.RecepcaoEvento.RecepcaoEvento.#ctor">
+	<remarks/>
+</member><member name="E:Nano.RecepcaoEvento.RecepcaoEvento.nfeRecepcaoEventoCompleted">
+	<remarks/>
+</member><member name="M:Nano.RecepcaoEvento.RecepcaoEvento.nfeRecepcaoEvento(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.RecepcaoEvento.RecepcaoEvento.nfeRecepcaoEventoAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.RecepcaoEvento.RecepcaoEvento.nfeRecepcaoEventoAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.RecepcaoEvento.RecepcaoEvento.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.RecepcaoEvento.RecepcaoEvento">
+	<remarks/>
+</member><member name="P:Nano.RecepcaoEvento.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.RecepcaoEvento.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.RecepcaoEvento.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.RecepcaoEvento.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.RecepcaoEvento.nfeRecepcaoEventoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.RecepcaoEvento.nfeRecepcaoEventoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.RecepcaoEvento.nfeRecepcaoEventoCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.#ctor(System.String)">
+	<remarks/>
+</member><member name="E:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.nfeRetAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.nfeRetAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.BeginnfeRetAutorizacaoLote(System.Xml.XmlNode,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.EndnfeRetAutorizacaoLote(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.nfeRetAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao.NfeRetAutorizacao">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacao.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacao.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacao.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao.nfeRetAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeRetAutorizacao.nfeRetAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeRetAutorizacao.nfeRetAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.StatusServico2.NfeStatusServico2.#ctor">
+	<remarks/>
+</member><member name="E:Nano.StatusServico2.NfeStatusServico2.nfeStatusServicoNF2Completed">
+	<remarks/>
+</member><member name="M:Nano.StatusServico2.NfeStatusServico2.nfeStatusServicoNF2(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.StatusServico2.NfeStatusServico2.nfeStatusServicoNF2Async(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.StatusServico2.NfeStatusServico2.nfeStatusServicoNF2Async(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.StatusServico2.NfeStatusServico2.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.StatusServico2.NfeStatusServico2">
+	<remarks/>
+</member><member name="P:Nano.StatusServico2.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.StatusServico2.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.StatusServico2.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.StatusServico2.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.StatusServico2.nfeStatusServicoNF2CompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.StatusServico2.nfeStatusServicoNF2CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.StatusServico2.nfeStatusServicoNF2CompletedEventArgs">
+	<remarks/>
+</member><member name="T:Nano.dsNano.BancoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.BloqueiosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.CFOPDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.CidadeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ComissaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ConfigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ContaPagarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ContaReceberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.DuplicataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.FuncionarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.FuturoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.GrupoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ImpostoProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.LancamentosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.OrdemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.PagamentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.PedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.QtdeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.RecebimentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.RepresentanteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalEntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.UsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.DevolucaoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.EntradaNFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.LogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.CaixaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.RegistroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ItensConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalConsigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.MovimentoBancarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.DescarteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ItensReceitaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.ComandaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.OrdensDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Nano.dsNano.BancoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.BloqueiosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.CFOPRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.CidadeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ComissaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ConfigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ContaPagarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ContaReceberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.DuplicataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.FuncionarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.FuturoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.GrupoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ImpostoProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.LancamentosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.OrdemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.PagamentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.PedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.QtdeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.RecebimentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.RepresentanteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalEntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.UsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.DevolucaoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.EntradaNFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.LogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.CaixaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.RegistroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ItensConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.TotalConsigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.MovimentoBancarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.DescarteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ItensReceitaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.ComandaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.OrdensRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Nano.dsNano.BancoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.BloqueiosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.CFOPRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.CidadeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ComissaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ConfigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ContaPagarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ContaReceberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.DuplicataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.FuncionarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.FuturoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.GrupoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ImpostoProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.LancamentosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.OrdemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.PagamentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.PedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.QtdeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.RecebimentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.RepresentanteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.TotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.TotalEntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.UsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.DevolucaoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.EntradaNFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.LogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.CaixaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.RegistroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ItensConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.TotalConsigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.MovimentoBancarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.DescarteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ItensReceitaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.ComandaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano.OrdensRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Nano.dsNano">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.BancoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.BloqueiosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.CFOPTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.CidadeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ComissaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ConfigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ContaPagarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ContaReceberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.DuplicataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.FuncionarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.FuturoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.GrupoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ImpostoProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.LancamentosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.OrdemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.PagamentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.PedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.QtdeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.RecebimentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.RepresentanteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.TotalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.TotalEntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.UsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.DevolucaoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.EntradaNFTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.LogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.CaixaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.RegistroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ItensConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.TotalConsigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.MovimentoBancarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.DescarteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ItensReceitaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.ComandaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Nano.dsNanoTableAdapters.OrdensTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Nano.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Nano.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Nano.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.#ctor(System.String)">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteZipCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.BeginnfeAutorizacaoLote(System.Xml.XmlNode,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.EndnfeAutorizacaoLote(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteZip(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.BeginnfeAutorizacaoLoteZip(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.EndnfeAutorizacaoLoteZip(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteZipAsync(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.nfeAutorizacaoLoteZipAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.NfeAutorizacaoMT">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoMT.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoMT.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoMT.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteZipCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteZipCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacaoMT.nfeAutorizacaoLoteZipCompletedEventArgs">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.#ctor(System.String)">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteCompleted">
+	<remarks/>
+</member><member name="E:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteZipCompleted">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLote(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.BeginnfeAutorizacaoLote(System.Xml.XmlNode,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.EndnfeAutorizacaoLote(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteZip(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.BeginnfeAutorizacaoLoteZip(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.EndnfeAutorizacaoLoteZip(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteZipAsync(System.String)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.nfeAutorizacaoLoteZipAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Nano.wsNFeAutorizacao.NfeAutorizacao.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.NfeAutorizacao">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao.nfeCabecMsg.versaoDados">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao.nfeCabecMsg.cUF">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao.nfeCabecMsg.AnyAttr">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.nfeCabecMsg">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteZipCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteZipCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Nano.wsNFeAutorizacao.nfeAutorizacaoLoteZipCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

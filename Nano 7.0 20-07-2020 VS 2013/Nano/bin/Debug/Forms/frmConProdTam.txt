@@ -1,0 +1,1 @@
+CodigoInterno,True,0,0,102|Produto,True,2,0,432|Tamanho,True,5,0,146|Qtd,True,6,0,154|Locacao,True,4,0,149|CodigoBarra,True,1,0,75|Grupo,True,3,0,75

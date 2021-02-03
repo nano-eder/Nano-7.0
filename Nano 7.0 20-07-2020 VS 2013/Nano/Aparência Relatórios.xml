@@ -1,0 +1,42 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="GroupFooter" iskey="true" value="GroupFooter">
+    <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+    <property name="BackColor">255, 255, 192</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseFont">true</property>
+    </property>
+  </property>
+  <property name="Row" iskey="true" value="Row">
+    <property name="BackColor">White</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+  </property>
+  <property name="GroupRow" iskey="true" value="GroupRow">
+    <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+    <property name="BackColor">AliceBlue</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseFont">true</property>
+    </property>
+  </property>
+  <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+    <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+    <property name="BackColor">CornflowerBlue</property>
+    <property name="ForeColor">White</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseFont">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="FooterPanel" iskey="true" value="FooterPanel">
+    <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+    <property name="BackColor">255, 255, 192</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseFont">true</property>
+    </property>
+  </property>
+</XtraSerializer>
